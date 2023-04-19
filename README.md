@@ -26,7 +26,6 @@ For these exercises you will find solutions. You can view the solution by clicki
 
 </details>
 
-
 ## Why Git?
 
 Git is a distributed version control system. What this means is that Git is really great for sharing code with many individuals while enabling you to keep your changes synchronized, properly versioned, and with a complete replica of the commits and repo content.
@@ -45,6 +44,6 @@ Git is a distributed version control system. What this means is that Git is real
 If you get stuck here's a handy cheat sheet from GitHub *[Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)*.
 
 <div align="right">
-   
+
    Prev - [Next](git_one_tasks.md)
 </div>

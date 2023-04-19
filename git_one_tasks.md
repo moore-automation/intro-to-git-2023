@@ -2,13 +2,19 @@
 
 ## Initialisation
 
+In this task we'll create our own local repository.
+
 > :computer:
 >
 > 1. Create a new directory.
 > 2. Intialise a local git repository and check the status.
->>* Optional: Inspect the .git subdirectory
 > 3. Verify username and email is set correctly.
-
+>
+>> Optional: Inspect the .git subdirectory.
+>>
+>> ```console
+>> ls -alh .git
+>> ```
 
 <details>
   <summary>Click here to show solution</summary>
@@ -29,9 +35,11 @@ Verify user/email is set: git config –list
   ```
 
 </details>
+<br>
 
 ## Adding/Removing Files
 
+In this task we'll experiment with commits and checking difference between files in our working directory and repository.
 
 > :computer:
 >
@@ -74,5 +82,8 @@ Verify user/email is set: git config –list
   git log --oneline
   ```
 
-   [Prev](README.md) - [Next](git_two_tasks.md)
+</details>
+<div align="right">
+
+   Prev - [Next](git_two_tasks.md)
 </div>

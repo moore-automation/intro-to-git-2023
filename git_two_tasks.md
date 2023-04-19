@@ -63,14 +63,6 @@ In this task we'll experiment with commits and checking difference between files
 > 3. Re-add all files within directory
 > 4. Check status and if only public.key is tracked commit the changes.
 
->
->> Optional: Make a second update then check the diff using difftool: <br>
->>
->> ```console
->> git config --global difftool.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
->> git difftool
->> ```
-
 <details>
   <summary>Click here to show solution</summary>
   

@@ -72,7 +72,7 @@ In this task we'll experiment with commits and checking difference between files
   Check status: git status --short
 3.
 
-  Update file contents: echo “sample text”” >> example.txt
+  Update file contents: echo “sample text” >> example.txt
   Check difference: git diff
 4.
 

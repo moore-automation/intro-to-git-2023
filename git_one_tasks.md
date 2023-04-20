@@ -53,6 +53,7 @@ In this task we'll experiment with commits and checking difference between files
 >> Optional: Make a second update then check the diff using difftool: <br>
 >>
 >> ```console
+>> git config --global diff.tool vscode
 >> git config --global difftool.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
 >> git difftool
 >> ```
@@ -63,7 +64,7 @@ In this task we'll experiment with commits and checking difference between files
   ```console
 1.
 
-  Create new Folder: touch example.txt
+  Create new file: touch example.txt
   Validate Status: git status
 2.
 
